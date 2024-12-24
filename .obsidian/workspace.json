@@ -1,56 +1,72 @@
 {
   "main": {
-    "id": "2640cdb04b22dbeb",
+    "id": "5421793d029564d5",
     "type": "split",
     "children": [
       {
-        "id": "716576b6e23897c5",
+        "id": "1266164c9f605d78",
         "type": "tabs",
         "children": [
           {
-            "id": "864f5658cfe824a1",
+            "id": "599e12d1cb38b087",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Тернарный оператор.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Тернарный оператор"
-            }
-          },
-          {
-            "id": "05abd934bd3228b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Тернарный оператор.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Тернарный оператор"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d76aecc61c6c4ba0",
+    "id": "f9ef556d76986985",
     "type": "split",
     "children": [
       {
-        "id": "fd2fc21102d0079b",
+        "id": "9d5069368a7feb7a",
         "type": "tabs",
         "children": [
           {
-            "id": "29b81769926177c9",
+            "id": "aeee4311b451126f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "17cc7e5a08e757f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "defd3b464d587d48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          }
+        ]
+      },
+      {
+        "id": "59868f0974579e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04abadb596732d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,9 +76,107 @@
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "e18db9cf5db4bc3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "437097fdbd8dcc50",
+        "type": "tabs",
+        "dimension": 39.49652777777778,
+        "children": [
+          {
+            "id": "c59fdea5dc6e302f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "This.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для This"
+            }
           },
           {
-            "id": "501653676231c766",
+            "id": "6f1350f2b9abe4c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "3a7653552a3c1c52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Persons/@Савинова Виктория Витальевна.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура @Савинова Виктория Витальевна"
+            }
+          },
+          {
+            "id": "cde03330263f9f3c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "c5adc6e549347825",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "ddd17e076a7bfbf5",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "add5109f4571989a",
+        "type": "tabs",
+        "dimension": 17.36111111111111,
+        "children": [
+          {
+            "id": "341b31b352b6419b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,104 +191,22 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "bd340d2900383945",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 204.5
-  },
-  "right": {
-    "id": "69bed3911cd58833",
-    "type": "split",
-    "children": [
-      {
-        "id": "015eb5a8e1c98309",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35ff932c90819dfa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Javascript/Стек вызовов.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Стек вызовов"
-            }
-          },
-          {
-            "id": "d3933ac2c4648838",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Javascript/Стек вызовов.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Стек вызовов"
-            }
-          },
-          {
-            "id": "65cc018cefbdad0d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
-            "id": "345dd9ce45997234",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Javascript/Тернарный оператор.md"
-              },
-              "icon": "lucide-list",
-              "title": "Структура Тернарный оператор"
-            }
-          }
-        ],
-        "currentTab": 3
       },
       {
-        "id": "5f16b29764520c4c",
+        "id": "9c078221f2d48fbf",
         "type": "tabs",
+        "dimension": 43.14236111111111,
         "children": [
           {
-            "id": "dd7ec528213b5ceb",
+            "id": "8cc75f201c2affdd",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "reminder-list",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ]
@@ -190,51 +222,47 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "05abd934bd3228b7",
+  "active": "c5adc6e549347825",
   "lastOpenFiles": [
-    "Ежедневник/13.12.2024.md",
-    "Javascript/Тернарный оператор.md",
-    "dawiodhnaowind.md",
-    "Ежедневник/20.12.2024.md",
-    "Ежедневник/14.12.2024.md",
-    "Templatest/Ежедневный чек лист.md",
-    "Ежедневник",
-    "Javascript/Стек вызовов.md",
-    "13.12.2024.md",
-    "Templatest",
-    "Javascript/Переменные.md",
-    "Javascript/Javascript.md",
-    "Javascript/try, catch, finally.md",
-    "2024-12-13.md",
-    "Javascript/Замыкание.md",
-    "Javascript/Promise.md",
+    "Inbox/Inbox Notes.md",
+    "Templates/Project.md",
+    "Templates/Ref-document.md",
+    "Templates/Ref-Instruction.md",
+    "Templates/Ref-Person.md",
+    "Templates/Reference.md",
+    "Templates/Tasks.md",
+    "Templates/Inbox.md",
+    "Templates/Meeting.md",
+    "Что то в голову идёт.md",
+    "Inbox",
+    "Persons/@Савинова Виктория Витальевна.md",
+    "Persons/Persons.md",
+    "Persons",
+    "Изучение Javascript/Изучение Javascript.md",
+    "Изучение Javascript/Собеседование.md",
+    "Изучение Javascript/Promise.md",
+    "Изучение Javascript",
+    "Attachments",
+    "Templates",
+    "Javascript/03. Функции.md",
+    "Javascript/07. Модули.md",
+    "React/01. Основы.md",
+    "React/00. React.md",
+    "React",
+    "Javascript/04. ООП.md",
+    "Javascript/00. Javascript.md",
+    "Javascript/01. Основы.md",
+    "01..md",
+    "Var.md",
     "Javascript/Var.md",
+    "Javascript/try, catch, finally.md",
     "Javascript/Pasted image 20241212083837.png",
-    "Javascript/Типы.md",
-    "Javascript/Const.md",
-    "JS/Переменные.md",
-    "Javascript",
-    "obsidian_frontend/README.md",
-    "obsidian_frontend/Javascript/Замыкание.md",
-    "obsidian_frontend/Javascript",
+    "Ежедневник",
+    "Templatest",
     "obsidian_frontend",
-    "gulp-basic-template-2024/svgo.config.js",
-    "gulp-basic-template-2024/source/styles/global/variables.scss",
-    "gulp-basic-template-2024/source/styles/global/README.md",
-    "gulp-basic-template-2024/source/styles/global/global.scss",
-    "gulp-basic-template-2024/source/styles/global/fonts.scss",
-    "gulp-basic-template-2024/source/styles/blocks/README.md",
-    "gulp-basic-template-2024/source/styles/blocks/header.scss",
-    "gulp-basic-template-2024/source/images/icons/README.md",
-    "gulp-basic-template-2024/source/vendor/README.md",
-    "gulp-basic-template-2024/source/scripts/README.md",
-    "gulp-basic-template-2024/source/images/README.md",
-    "gulp-basic-template-2024/assets/node.png",
-    "gulp-basic-template-2024/assets/git.png"
+    "Javascript"
   ]
 }

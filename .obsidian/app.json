@@ -1,1 +1,11 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
+}
