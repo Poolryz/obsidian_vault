@@ -6,7 +6,6 @@ WHERE file.name = this.file.name
 ```
 #reference/info
 # Links
-[[00. Javascript]]
 
 
 
