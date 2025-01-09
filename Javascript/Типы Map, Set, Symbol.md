@@ -11,10 +11,11 @@ WHERE file.name = this.file.name
 ```
 
 #task/waiting  %% now | next | waiting | someday %%
-- [ ] Типы Map, Set, Symbol
+- [x] Типы Map, Set, Symbol
 
 # Links
 [[Изучение Javascript]]
 
 # Description
 Изучаем типы.
+

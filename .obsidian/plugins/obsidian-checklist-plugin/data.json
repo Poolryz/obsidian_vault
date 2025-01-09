@@ -10,8 +10,6 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "!Templates/**",
   "lookAndFeel": "classic",
-  "_collapsedSections": [
-    "#task/waiting"
-  ],
+  "_collapsedSections": [],
   "_hiddenTags": []
 }
