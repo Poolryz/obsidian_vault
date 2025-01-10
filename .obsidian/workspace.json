@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ff2c16baed0fb94",
+        "id": "c80c126ff421a082",
         "type": "tabs",
         "children": [
           {
-            "id": "12113651f9e8bcc8",
+            "id": "b5495fdc8043fecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Типы Map, Set, Symbol.md",
+                "file": "Templates/Ref-info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы Map, Set, Symbol"
-            }
-          },
-          {
-            "id": "f4f54c7ca1040c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Map Set WeakMap WeakSet Symbol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Map Set WeakMap WeakSet Symbol"
+              "title": "Ref-info"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,15 +226,23 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a04abadb596732d7",
+  "active": "b5495fdc8043fecd",
   "lastOpenFiles": [
+    "Ку.md",
+    "Templates/Ref-info.md",
+    "Templates/Project.md",
+    "Javascript/02. Типы.md",
+    "Javascript/Генераторы.md",
+    "Javascript/Функции генераторы.md",
+    "Javascript/Event loop (микро и макро задачи).md",
     "Javascript/Типы Map, Set, Symbol.md",
     "Javascript/Map Set WeakMap WeakSet Symbol.md",
+    "Javascript/Event Loop.md",
     "Inbox/Inbox Notes.md",
-    "Javascript/Event loop (микро и макро задачи).md",
     "Javascript/03. Функции.md",
     "Javascript/Изучение Javascript.md",
     "Persons/Persons.md",
@@ -261,18 +254,11 @@
     "Javascript/05. Асинхронность.md",
     "Javascript/04. ООП.md",
     "Javascript/00. Javascript.md",
-    "Javascript/02. Типы.md",
     "Javascript/01. Основы.md",
     "Javascript/Решаем задачи с собеседований.md",
-    "Javascript/Функции генераторы.md",
     "Javascript/Контекст.md",
     "Templates/Ref-Instruction.md",
-    "Templates/Ref-info.md",
-    "Templates/Project.md",
     "Templates/Ref-document.md",
-    "Templates/Ref-Person.md",
-    "Templates/Reference.md",
-    "Templates/Tasks.md",
     "Inbox",
     "Persons",
     "Изучение Javascript",
