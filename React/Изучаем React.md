@@ -9,7 +9,7 @@ file.outlinks AS "OUTGOING",
 file.inlinks AS "BACKLINKS"	WHERE file.name = this.file.name 
 ```
 #project
-- [ ] Изучение Javascript
+- [ ] Изучаем React
 # Todo List
 > [!todo] Active
 ```dataview
@@ -28,14 +28,8 @@ LIMIT 30
 ```
 
 # Links
+[[00. React]]
 
 
 
 # Description
-
-Нам надо изучить Javascript для работы на FrontEnd'е, что бы сделать это планово и по пунктам. Я создал этот проект.
-Принцип изучения:
-- Создаем `task` на изучение того или иного элемента в js.
-- Изучаем и добавляем Ref-info. Для сохранения информации.
-- Линкуем Ref-info с проектом.
-- Закрываем `task`.

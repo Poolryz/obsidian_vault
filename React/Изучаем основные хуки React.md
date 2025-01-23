@@ -10,11 +10,17 @@ file.inlinks AS "BACKLINKS"
 WHERE file.name = this.file.name
 ```
 
-#task/waiting  %% now | next | waiting | someday %%
-- [ ] Решаем задачи с собеседований
+#task/waiting %% now | next | waiting | someday %%
+- [ ] Изучаем основные хуки React
 
 # Links
-[[Изучение Javascript]]
+[[Изучаем React]]
+
 
 # Description
-Решаем 3 задачи с собеседований.
+
+UseState
+UseEffect
+UseCallback
+UseRef
+UseContext
