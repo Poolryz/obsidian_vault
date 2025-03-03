@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "21838592a73f7dd0",
+        "id": "011e3afe2b4eee21",
         "type": "tabs",
         "children": [
           {
-            "id": "3296a458cd25ef80",
+            "id": "5334a72d5936dcdf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "7fe47a609a6aa524",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Redux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +57,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -82,7 +77,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -236,8 +232,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7fe47a609a6aa524",
+  "active": "5334a72d5936dcdf",
   "lastOpenFiles": [
+    "Redux.md",
+    "useCallback.md",
     "React/UseState.md",
     "UseContext.md",
     "React/UseContext.md",
@@ -262,8 +260,6 @@
     "Javascript/Event Loop.md",
     "Templates/Ref-info.md",
     "Ку.md",
-    "Templates/Project.md",
-    "Javascript/02. Типы.md",
     "Attachments/Pasted image 20241212083837.png",
     "Inbox",
     "Persons",
